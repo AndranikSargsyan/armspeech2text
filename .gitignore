@@ -1,0 +1,5 @@
+__pycache__/
+checkpoints/
+data/
+lightning_logs/
+.ipynb_checkpoints/
